@@ -1,10 +1,11 @@
+![Portfolio_banner](https://github.com/user-attachments/assets/c4f3e50d-c897-462c-b512-d8debd818e14)
+# 📁 Free Portfolio Website
 
-# 📁 IBahaaaldin Portfolio Website
+![HTML](https://img.shields.io/badge/Built%20With-HTML%2FCSS%20%2B%20JS-blue)
+![Status](https://img.shields.io/badge/Version-1.0-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-white?logo=googlechrome&logoColor=4285F4&style=flat-square)](https://ibahaaaldin.github.io/)
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-0A66C2?logo=vercel&logoColor=white&style=flat-square)](https://ibahaaaldin.github.io/)
-
-![Portfolio Banner](docs/assets/Portfolio_banner.jpg)
+![Portfolio Banner](assets/Portfolio_banner.jpg)
 
 ---
 
@@ -41,7 +42,7 @@ This is a clean, responsive portfolio website built from scratch using **HTML**,
 
 ## 📷 Screenshots
 
-![Website Preview](docs/assets/Website_preview.jpeg)
+![Website Preview](assets/Website_preview.jpg)
 
 ---
 
