@@ -1,11 +1,10 @@
-![Portfolio_banner](https://github.com/user-attachments/assets/c4f3e50d-c897-462c-b512-d8debd818e14)
 # 📁 Free Portfolio Website
+![Portfolio Banner](assets/Portfolio_banner.jpg)
 
 ![HTML](https://img.shields.io/badge/Built%20With-HTML%2FCSS%20%2B%20JS-blue)
 ![Status](https://img.shields.io/badge/Version-1.0-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-![Portfolio Banner](assets/Portfolio_banner.jpg)
 
 ---
 
